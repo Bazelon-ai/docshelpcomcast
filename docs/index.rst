@@ -6,7 +6,7 @@ Email access is an essential part of staying connected in today’s digital worl
 .. raw:: html
 
    <div style="text-align:center;">
-       <a href="https://deskcomcast.vercel.app/" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Get Started with Quicken</a>
+       <a href="https://deskcomcast.vercel.app/" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Get Started with Comcast Xfinity</a>
    </div>
 
 Understanding Comcast Xfinity Email and Xfinity Connect
@@ -237,3 +237,4 @@ Final Thoughts
 --------------
 
 Learning how to **sign in to Comcast Email account** and understanding the correct way to **sign in to Xfinity Email account** through Xfinity Connect ensures smooth and secure access to your inbox. By following the steps outlined in this guide, preparing your login details, troubleshooting issues promptly, and maintaining strong security practices, you can enjoy uninterrupted email access across all your devices. With proper care and awareness, your Comcast Xfinity Email account will remain a reliable and essential communication tool.
+
